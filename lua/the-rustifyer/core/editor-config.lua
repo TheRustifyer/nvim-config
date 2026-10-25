@@ -1,5 +1,8 @@
 -- This file holds the core editor's configuration and settings
 --
+vim.g.clipboard = "osc52"
+vim.opt.clipboard = "unnamedplus"
+
 --
 
 vim.o.timeout = true
