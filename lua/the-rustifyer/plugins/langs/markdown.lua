@@ -1,4 +1,4 @@
--- Enhacing `Mardown` files
+-- Enhacing `Markdown` files
 --
 return {
     --- Preview Markdown files from within Neovim in a floating window
